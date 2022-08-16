@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Hello world!<br>Новый тест
+    Hello world!<br>Новый тест новый 
 </body>
 </html>
